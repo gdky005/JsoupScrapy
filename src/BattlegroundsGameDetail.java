@@ -16,7 +16,11 @@ import java.util.ArrayList;
  * Created by WangQing on 2017/10/4.
  */
 public class BattlegroundsGameDetail {
-    private static String url = "http://www.gamersky.com/handbook/201705/906915.shtml";
+    private static String url = "http://www.gamersky.com/handbook/201704/893376.shtml";
+//    private static String url = "http://www.gamersky.com/handbook/201708/945256.shtml";
+//    普通图文混排类型
+//    private static String url = "http://www.gamersky.com/handbook/201705/906915.shtml";
+//    一堆图片类型
 //    private static String url = "http://www.gamersky.com/handbook/201708/949747.shtml";
 
     private static Document document;
